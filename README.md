@@ -1,3 +1,3 @@
 - Hi, I’m @cachja.
 - I’m interested in numerical solving of continuum mechanics PDE's.
-- I’m currently learning FEniCS, Firedrake.
+- I’m using legacy FEniCS and Firedrake.
