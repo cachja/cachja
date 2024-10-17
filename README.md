@@ -1,3 +1,3 @@
-- Hi, I’m @cachja.
-- I’m interested in numerical solving of continuum mechanics PDE's.
-- I’m using legacy FEniCS and Firedrake.
+- 👋 Hi, I’m @cachja.
+- I’m a PhD student at Charles University (https://karlin.mff.cuni.cz/~cach/), focused on numerical solutions for continuum mechanics PDEs.
+- Currently working with legacy FEniCS and Firedrake for simulations and computations.
